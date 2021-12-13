@@ -1,1 +1,0 @@
-INSERT INTO tClient(Name, Mail, Phone, BornDate) VALUES('Dmitrii', 'Lolkek@mail.ru', '53065589', '03.08.1990')
